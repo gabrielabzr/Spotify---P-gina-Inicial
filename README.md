@@ -1,2 +1,2 @@
-# Spotify---P-gina-Inicial
+# Spotify---Página-Inicial
 Projeto desenvolvido com o curso "Imersão FrontEnd" da Alura!
